@@ -1,4 +1,0 @@
-Modern C++ supports smart pointers.
-Memory management is critical in C++ development.
-Concurrency can be achieved using threads.
-This file is for testing keyword search.

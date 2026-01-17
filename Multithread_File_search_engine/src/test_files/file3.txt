@@ -1,4 +1,0 @@
-File searching can be optimized using multithreading.
-C++ developers often work on backend systems.
-This project demonstrates mutex usage in C++.
-Efficient code leads to better performance.
